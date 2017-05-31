@@ -3,8 +3,8 @@
 ## Introductory notes
 
 * one presale SKO is now represented as 1,000 SKO1 (instead of SKOK as initially written on the web site)
-* some initial (manual) testing completed, full testing remains to be done
-* we aim to deploy the contract before 1st June, but reserve the right to delay by a few days if any issues are found during testing
+* The security audit is in https://github.com/sikoba/token-continuous/blob/master/SecurityAudit.md and the test cases and results are in the test/ subdirectory.
+* the contract has been deployed on 29 May and announced publicly on 31 May
 
 ## Functionality
 
